@@ -16,6 +16,8 @@ It's now in the testing stage,I will further improve its performance and experie
 
 The original version made pjax disabled,there won't be such a problem in Fly-Engine 1.
 
+**May increase bandwidth consumption**
+
 ---
 
 # Usage
