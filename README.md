@@ -1,0 +1,45 @@
+# Fly-Engine 1
+
+A website page speed up script based on principle of [instant page](https://instant page/).
+
+My blog:[Natsuki Kaede](https://flymc.cc/)
+
+---
+
+# Intro
+
+Fly-Engine accelerate the pages loading by prefetching the links user hovered.
+
+It's now in the testing stage,I will further improve its performance and experience.
+
+The original version made pjax disabled,there won't be such a problem in Fly-Engine 1.
+
+---
+
+# Usage
+
+Put this HTML snippet just before </body>:
+
+```html
+<script src="//cdn.jsdelivr.net/gh/Natsuki-Kaede/Fly-Engine/fly-engine.js" type="module"></script>
+```
+
+also try
+
+```html
+<script src="//cdn.jsdelivr.net/gh/Natsuki-Kaede/Fly-Engine/fly-engine.js" type="module" async="true"></script>
+```
+
+---
+
+# Issues
+
+Submit your issues in [HERE](https://flymc.cc/fly-engine)
+
+---
+
+# License
+
+MIT
+
+---
