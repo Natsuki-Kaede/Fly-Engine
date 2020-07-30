@@ -1,6 +1,6 @@
 # Fly-Engine 1
 
-A website page speed up script based on principle of [instant page](https://instant page/).
+A website page speed up script based on principle of instant page.
 
 My blog:[Natsuki Kaede](https://flymc.cc/)
 
