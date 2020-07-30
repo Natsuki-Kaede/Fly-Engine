@@ -3,6 +3,7 @@
 A website page speed up script based on principle of instant page.
 
 My blog:[Natsuki Kaede](https://flymc.cc/)
+Release:[https://flymc.cc/fly-engine](https://flymc.cc/fly-engine)
 
 ---
 
