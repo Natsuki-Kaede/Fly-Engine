@@ -78,3 +78,5 @@ function h(t) {
     const e = document.createElement("link");
     e.rel = "prefetch", e.href = t, document.head.appendChild(e), n.add(t)
 }
+    console.log("Fly-Engine 1 FLY_MC");
+	console.log("Natsuki Kaede(FLY_MC): www.flymc.cc");
