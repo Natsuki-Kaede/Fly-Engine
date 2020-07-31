@@ -38,7 +38,7 @@ also try
 
 # Issues
 
-Submit your issues in [HERE](https://flymc.cc/fly-engine)
+Submit your issues in [HERE](https://flymc.cc/2020/07/30/fly-engine/)
 
 ---
 
