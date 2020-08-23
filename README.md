@@ -25,13 +25,13 @@ The original version made pjax disabled,there won't be such a problem in Fly-Eng
 Put this HTML snippet just before </body>:
 
 ```html
-<script src="//cdn.jsdelivr.net/gh/Natsuki-Kaede/Fly-Engine/fly-engine.js" type="module"></script>
+<script src="//cdn.jsdelivr.net/gh/Natsuki-Kaede/Fly-Engine@latest/fly-engine.js" type="module"></script>
 ```
 
 also try
 
 ```html
-<script src="//cdn.jsdelivr.net/gh/Natsuki-Kaede/Fly-Engine/fly-engine.js" type="module" async="true"></script>
+<script src="//cdn.jsdelivr.net/gh/Natsuki-Kaede/Fly-Engine@latest/fly-engine.js" type="module" async="true"></script>
 ```
 
 ---
