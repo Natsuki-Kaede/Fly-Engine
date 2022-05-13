@@ -4,7 +4,7 @@ A website page speed up script based on principle of instant page.
 
 My blog:[Natsuki Kaede](https://flymc.cc/)
 
-Release:[https://flymc.cc/2020/07/30/fly-engine/](https://flymc.cc/2020/07/30/fly-engine/)
+Release:[https://flymc.cc/posts/fly-engine/](https://flymc.cc/posts/fly-engine/)
 
 ---
 
@@ -38,7 +38,7 @@ also try
 
 # Issues
 
-Submit your issues in [HERE](https://flymc.cc/2020/07/30/fly-engine/)
+Submit your issues in [HERE](https://flymc.cc/posts/fly-engine/)
 
 ---
 
